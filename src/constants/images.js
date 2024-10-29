@@ -21,7 +21,8 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import yummy from '../assets/yummy.png';
 
-export default {
+const data={
+
   bg,
   chef,
   G,
@@ -44,4 +45,5 @@ export default {
   sign,
   quote,
   yummy,
-};
+}
+export default data;

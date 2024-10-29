@@ -78,5 +78,7 @@ const awards = [
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
 ];
+// Assign to a single variable before exporting
+const data = { wines, cocktails, awards };
 
-export default { wines, cocktails, awards };
+export default data;
